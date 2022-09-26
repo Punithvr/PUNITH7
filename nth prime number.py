@@ -1,4 +1,5 @@
 print("enter the nth number")
+
 rangenumber=int(input())
 c=0
 num=2
